@@ -1,0 +1,26 @@
+.classOne{
+
+    color: blue;
+    background-color: aqua;
+}
+
+
+.mainTextField{
+
+    align-content: center;
+    color: white;
+    background-color: blueviolet;
+    /*
+    <link href="https://fonts.googleapis.com/css?family=MedievalSharp" rel="stylesheet">
+     */
+}
+
+.container{
+    width: 989px;
+    margin: 0 auto;
+    background-color: darkgray;
+}
+
+.pictureFrame{
+    margin: 0 auto;
+}
